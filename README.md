@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @letterdropped
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Frontend
 
 <!---
 letterdropped/letterdropped is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
